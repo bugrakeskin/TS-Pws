@@ -15,7 +15,7 @@ title = "Tufan Sabah - Basketball Koçu & Beslenme uzmanı"
     copyright = "© Made by Buğra" 
 
     # The "description" of your website. This is used in the meta data of your generated html.
-    description = "Tufan Sabah - Basketball Koçu & Beslenme uzmanı"
+    description = "Tufan Sabah - Basketbol Koçu & Beslenme uzmanı"
 
     # The path to your "favicon". This should be a square (at least 32px x 32px) png-file.
     favicon = "images/favicon.png"
@@ -36,4 +36,4 @@ title = "Tufan Sabah - Basketball Koçu & Beslenme uzmanı"
     # hidedesignbyline = true
 
     [params.meta]
-        keywords = "Tufan Sabah, basketbol koçu, basketbol, koç sabah,İzmir basketbol, Tufan koç"
+        keywords = "Tufan Sabah, basketbol,İzmir basketbol, Tufan koç"
