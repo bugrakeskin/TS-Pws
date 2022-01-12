@@ -12,10 +12,10 @@ title = "Tufan Sabah - Basketball Instructor & Nutrition Coach"
 [params]
     # A "copyright"-line to be added at the bottom of the page.
     # Hint: Markdown is supported in here as well. So you may e.g. add a link to your legal imprint-page.
-    copyright = "© Tufan Sabah"
+    copyright = "© Tufan Sabah - Trade Mark"
 
     # The "description" of your website. This is used in the meta data of your generated html.
-    description = "Basketball Instructor & Nutrition Coach"
+    description = "Tufan Sabah - Basketball Koçu & Beslenme uzmanı"
 
     # The path to your "favicon". This should be a square (at least 32px x 32px) png-file.
     favicon = "images/favicon.png"
@@ -29,11 +29,11 @@ title = "Tufan Sabah - Basketball Instructor & Nutrition Coach"
     # Another "title" :-). This one is used as the site_name on the Hugo's internal
     # opengraph structured data template.
     # See https://ogp.me/ and https://gohugo.io/templates/internal#open-graph.
-    title = "Tufan Sabah - Basketball Instructor & Nutrition Coach"
+    title = "Tufan Sabah - Basketball Koçu & Beslenme uzmanı"
 
     # This theme will, by default, inject a design-by-line at the bottom of the page.
     # You can turn it off, but we would really appreciate if you don’t :-)
     # hidedesignbyline = true
 
     [params.meta]
-        keywords = "Tufan Sabah, basketball coach, basketbol, koç sabah, you, know, google, duckduckgo, and, such"
+        keywords = "Tufan Sabah, basketbol koçu, basketbol, koç sabah,İzmir basketbol, Tufan koç"
