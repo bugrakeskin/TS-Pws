@@ -10,12 +10,8 @@ header_menu: true
 
 
 <html>
-  <head>
-    <title>{{ .Title }}</title>
-  </head>
   <body>
-    <h1>{{ .Title }}</h1>
-    <form accept-charset="UTF-8" action="https://getform.io/https://getform.io/f/aafdacf0-4d1c-460d-9378-1ea96aa83bac" method="POST">
+    <form name="contact" method="POST" data-netlify="true">
     <input type="email" name="email" placeholder="Your Email">
     <input type="text" name="name" placeholder="Your Name">
     <input type="text" name="message" placeholder="Your Message">
@@ -24,9 +20,9 @@ header_menu: true
   </body>
 </html>
 
-<form name="contact" method="POST" data-netlify="true">
+    <form accept-charset="UTF-8" action="https://getform.io/https://getform.io/f/aafdacf0-4d1c-460d-9378-1ea96aa83bac" method="POST">
     <input type="email" name="email" placeholder="Your Email">
     <input type="text" name="name" placeholder="Your Name">
     <input type="text" name="message" placeholder="Your Message">
     <button type="submit">Send</button>
-</form>
+	</form>
