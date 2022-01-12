@@ -27,8 +27,8 @@ features = ["cover-image", "favicon", "header-menu", "auto-scroll"]
 min_version = "0.41.0"
 
 [author]
-  name = "Jan Raasch"
-  homepage = "https://www.janraasch.com"
+  name = "Tufan sabah"
+  homepage = "https://tufansabah.netlify.app/"
 
 [original]
   name = "GhostScroll"
