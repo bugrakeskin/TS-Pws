@@ -11,11 +11,11 @@ https://getform.io/f/aafdacf0-4d1c-460d-9378-1ea96aa83bac
       method="POST"
       accept-charset="UTF-8">
     
-    <input type="text" name="fullname">
-    <input type="email" name="email">
-    <input type="text" name="message">
+    <input type="text" name="Adınız">
+    <input type="email" name="Email">
+    <input type="text" name="Mesaj">
     
-    <button type="submit">Send</button>
+    <button type="Gönder">Send</button>
     
 </form>
 

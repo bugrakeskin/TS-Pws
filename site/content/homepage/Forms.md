@@ -4,8 +4,6 @@ weight: 5
 header_menu: False
 ---
 
-https://getform.io/f/aafdacf0-4d1c-460d-9378-1ea96aa83bac
-
 
 <form action="https://getform.io/f/aafdacf0-4d1c-460d-9378-1ea96aa83bac" 
       method="POST"
