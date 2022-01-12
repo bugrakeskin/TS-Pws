@@ -7,7 +7,7 @@
     <section>{{ echoParam .Site.Params "hidebyline" }}</section>
     {{ if ne .Site.Params.hidedesignbyline true }}
       <section>
-       
+       [BK](https://bugra-keskin.com)
       </section>{{ end }}
 
   </div>
