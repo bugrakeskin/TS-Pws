@@ -1,30 +1,22 @@
 ---
-title: "Hizmetlerim"
-weight: 2
-header_menu: true
+title: "Form Gönder"
+weight: 5
+header_menu: False
 ---
 
-Hizmetlerim giriş yazısı
+https://getform.io/f/aafdacf0-4d1c-460d-9378-1ea96aa83bac
 
----
 
-## hizmetler 1
+<form action="https://getform.io/f/aafdacf0-4d1c-460d-9378-1ea96aa83bac" 
+      method="POST"
+      accept-charset="UTF-8">
+    
+    <input type="text" name="fullname">
+    <input type="email" name="email">
+    <input type="text" name="message">
+    
+    <button type="submit">Send</button>
+    
+</form>
 
-açıklama
-
-![hizmetler1](images/hizmetler1.jpg)
-
-alt yazı
-
----
-
-## hizmetler 2
-
-açıklama
-
-![hizmetler2](images/hizmetler2.jpg)
-
-alt yazı
-
----
 
