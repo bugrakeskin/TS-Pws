@@ -1,6 +1,15 @@
 {{ define "main" }}
-
-{{ partial "jumbotron" (dict "imageUrl" "/img/7.jpg" "title" "This is where the heading goes" "subtitle" "This is where the subtitle goes") }}
-{{ .Content }}
-
+  <main class="content page-template page-{{ .Slug }}" role="main">
+    <article class="post page">
+      <header class="post-header">
+        <a id="blog-logo" href="{{ "/" | relURL }}">
+          {{ .Site.Title }}
+        </a>
+      </header>
+      <h1 class="post-title">{{ .Title }}</h1>
+      <section class="post-content">
+        {{ .Content }}
+      </section>
+    </article>
+  </main>
 {{ end }}
