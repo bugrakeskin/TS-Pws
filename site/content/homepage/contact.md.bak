@@ -8,4 +8,4 @@ header_menu: true
 
 {{<icon class="fa fa-phone">}}&nbsp;[+905323281917](tel:+905323281917)
 
-Let us get in touch!
+
