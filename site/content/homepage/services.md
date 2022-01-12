@@ -12,7 +12,7 @@ Hizmetlerim giriş yazısı
 
 açıklama
 
-![resim1](images/resim1.jpg)
+![hizmetler1](images/hizmetler1.jpg)
 
 alt yazı
 
