@@ -4,17 +4,11 @@ weight: 5
 header_menu: False
 ---
 
-
-<form action="https://getform.io/f/aafdacf0-4d1c-460d-9378-1ea96aa83bac" 
-      method="POST"
-      accept-charset="UTF-8">
-    
-    <input type="text" name="Adınız">
-    <input type="email" name="Email">
-    <input type="text" name="Mesaj">
-    
-    <button type="Gönder">Send</button>
-    
+<form accept-charset="UTF-8" action="https://getform.io/https://getform.io/f/aafdacf0-4d1c-460d-9378-1ea96aa83bac" method="POST">
+    <input type="email" name="email" placeholder="Your Email">
+    <input type="text" name="name" placeholder="Your Name">
+    <input type="text" name="message" placeholder="Your Message">
+    <button type="submit">Send</button>
 </form>
 
 
