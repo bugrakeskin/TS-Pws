@@ -1,7 +1,7 @@
 ---
 title: "Form"
 ---
-
+<html>
 <form accept-charset="UTF-8" action="https://getform.io/{aafdacf0-4d1c-460d-9378-1ea96aa83bac}" method="POST">
     <input type="email" name="email" placeholder="Your Email">
     <input type="text" name="name" placeholder="Your Name">
@@ -20,3 +20,4 @@ title: "Form"
     <button type="submit">Send</button>
   </p>
 </form>
+</html>
