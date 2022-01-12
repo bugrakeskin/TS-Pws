@@ -1,18 +1,19 @@
 <form
-  action="https://formspree.io/p/1615048538327089110/f/contact"
+  action="https://formspree.io/f/xzbodboe"
   method="POST"
 >
+
   <label>
-    Your email:
+    E-mail:
     <input type="email" name="email" />
   </label>
 
   <label>
-    Your message:
+    Mesaj:
     <textarea name="message"></textarea>
   </label>
 
-  <button type="submit">Send</button>
+  <button type="submit">Gönder</button>
 </form>
 
 <style>
