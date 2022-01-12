@@ -1,0 +1,22 @@
+---
+title: "Services"
+---
+
+<form accept-charset="UTF-8" action="https://getform.io/{aafdacf0-4d1c-460d-9378-1ea96aa83bac}" method="POST">
+    <input type="email" name="email" placeholder="Your Email">
+    <input type="text" name="name" placeholder="Your Name">
+    <input type="text" name="message" placeholder="Your Message">
+    <button type="submit">Send</button>
+</form>
+
+<form name="contact" netlify>
+  <p>
+    <label>Name <input type="text" name="name" /></label>
+  </p>
+  <p>
+    <label>Email <input type="email" name="email" /></label>
+  </p>
+  <p>
+    <button type="submit">Send</button>
+  </p>
+</form>
