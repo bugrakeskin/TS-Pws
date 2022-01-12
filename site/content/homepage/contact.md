@@ -2,7 +2,6 @@
 title: "İletişim"
 weight: 4
 header_menu: true
-data-netlify: true
 ---
 
 {{<icon class="fa fa-envelope">}}&nbsp;[tufansabah@hotmail.com](mailto:tufansabah@hotmail.com)
@@ -14,4 +13,16 @@ data-netlify: true
     <input type="text" name="name" placeholder="Your Name">
     <input type="text" name="message" placeholder="Your Message">
     <button type="submit">Send</button>
+</form>
+
+<form name="contact" netlify>
+  <p>
+    <label>Name <input type="text" name="name" /></label>
+  </p>
+  <p>
+    <label>Email <input type="email" name="email" /></label>
+  </p>
+  <p>
+    <button type="submit">Send</button>
+  </p>
 </form>
