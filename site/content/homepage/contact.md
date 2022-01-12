@@ -4,8 +4,8 @@ weight: 4
 header_menu: true
 ---
 
-{{<icon class="fa fa-envelope">}}&nbsp;[mail@janedoe.com](mailto:your-email@your-domain.com)
+{{<icon class="fa fa-envelope">}}&nbsp;[tufansabah@hotmail.com](mailto:tufansabah@hotmail.com)
 
-{{<icon class="fa fa-phone">}}&nbsp;[+49 1111 555555](tel:+491111555555)
+{{<icon class="fa fa-phone">}}&nbsp;[+905323281917](tel:+905323281917)
 
 Let us get in touch!
